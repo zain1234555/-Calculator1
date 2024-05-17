@@ -1,0 +1,19 @@
+{
+  "name": "code-quresh44-calculator-project-using-typescript",
+  "version": "1.0.0",
+  "description": "\" (calculator-project-using-typescript)\"",
+  "main": "main.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
